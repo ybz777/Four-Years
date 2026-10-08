@@ -1,21 +1,51 @@
-FOUR YEARS
+# Four Years
 
-A satirical college-life game. You start at 18, get through four years, and finish with a job, graduate school, or something less certain. Each run is a different life.
+**Four Years** is a browser-based single-player college life simulation game.
 
-RUN THE DEMO
+## Play Online
 
-You need Node.js 18 or newer.
+https://four-years.onrender.com/
 
-In this folder:
+No installation required. Open the link and start a new life.
 
-npm install npm run dev
+## About
 
-Open http://localhost:5173 in a browser.
+Start college at age 18 and experience four years of academic, social, financial, and career decisions.
 
-Click Begin a life, then Start freshman year. The game saves in the browser. Continue picks up that life.
+Every run can develop differently depending on the choices you make throughout college. Graduate with a job, continue to graduate school, or end up somewhere less certain.
 
-OPTIONAL
+## Features
 
-npm run build npm run preview
+- Four-year college life simulation
+- Start as a freshman at age 18
+- Year-by-year progression through college
+- Academic and career decisions
+- Social and personal choices
+- Financial and lifestyle management
+- Dynamic events and consequences
+- Multiple possible life outcomes
+- Career and graduate school paths
+- Replayable runs with different outcomes
+- Browser-based persistent saves
+- Continue an existing life after leaving and returning to the game
 
-That plays the production build locally.
+## Gameplay
+
+Each run represents a complete college experience.
+
+```text
+Start Freshman Year
+        ↓
+Make Academic Decisions
+        ↓
+Manage College Life
+        ↓
+Handle Events
+        ↓
+Build Your Career
+        ↓
+Progress Through Four Years
+        ↓
+Graduate
+        ↓
+Job / Graduate School / Other Outcome
